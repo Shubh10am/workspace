@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Car 1",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 2,
+    "name": "Car 2",
+    "make": "Make B",
+    "model": "Model Y",
+    "price": 28000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 3,
+    "name": "Car 3",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 4,
+    "name": "Car 4",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 5,
+    "name": "Car 5",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 6,
+    "name": "Car 6",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 7,
+    "name": "Car 7",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 8,
+    "name": "Car 8",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 9,
+    "name": "Car 9",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  },
+  {
+    "id": 10,
+    "name": "Car 10",
+    "make": "Make A",
+    "model": "Model X",
+    "price": 25000,
+    "image": "https://picsum.photos/id/1/200"
+  }
+]
